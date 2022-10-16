@@ -11,7 +11,6 @@ import {
 } from '@chakra-ui/react'
 import { IoMail, IoLogoLinkedin } from 'react-icons/io5'
 import Section from '../components/section'
-import { WorkGridItem } from '../components/grid-item'
 import Layout from '../components/layouts/article'
 import Paragraph from '../components/paragraph'
 import Link from 'next/link'

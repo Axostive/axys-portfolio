@@ -4,7 +4,6 @@ import {
   Container,
   Heading,
   Box,
-  SimpleGrid,
   Button,
   List,
   Image,
@@ -13,14 +12,12 @@ import {
 } from '@chakra-ui/react'
 import { IoLogoInstagram, IoLogoGithub, IoLogoLinkedin } from 'react-icons/io5'
 import { ChevronRightIcon } from '@chakra-ui/icons'
-
 import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import Paragraph from '../components/paragraph'
-import { GridItem } from '../components/grid-item'
 import { BioSection, BioYear } from '../components/bio'
 
-const Page = () => {
+const Home = () => {
   return (
     <Layout>
       <Container>
@@ -189,5 +186,5 @@ const Page = () => {
   )
 }
 
-export default Page
+export default Home
 export { getServerSideProps } from '../components/chakra'
