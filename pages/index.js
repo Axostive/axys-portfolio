@@ -79,11 +79,11 @@ const Home = () => {
           <Paragraph>
             I am a very active person, currently endeavoring to explore more of
             that. Presently practicing to run a Marathon which is an objective
-            that I started aiming for at the beginning of 2022 - with the
-            passing of my grandmother, which is a second mother to me, who is my
-            inspiration for so many things, I am proud of pushing and testing my
-            limits and especially completing this goal and nominating this
-            future Marathon to her.
+            that I started aiming for on 2022. With the passing of my
+            grandmother, which is a second mother to me, who is my inspiration
+            for so many things - I am proud of pushing and testing my limits and
+            especially completing this goal and nominating this future Marathon
+            to her.
           </Paragraph>
           <Paragraph>
             Also, as for my career goals - at this time I am studying and
