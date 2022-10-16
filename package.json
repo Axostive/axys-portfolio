@@ -29,6 +29,8 @@
   },
   "devDependencies": {
     "eslint-config-next": "^12.3.1",
-    "prettier": "^2.7.1"
+    "prettier": "^2.7.1",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
   }
 }
